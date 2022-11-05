@@ -57,7 +57,7 @@ function StatsModal({ distribution, streak }) {
                         <StatsModalFirstPartSub name="Wins" value={numWins}></StatsModalFirstPartSub>
                         <StatsModalFirstPartSub name="Losses" value={numLosses}></StatsModalFirstPartSub>
                         <StatsModalFirstPartSub name="Win Percentage" value={numGamesCompleted === 0 ? "N/A" : winPercentage+"%"}></StatsModalFirstPartSub>
-                        <StatsModalFirstPartSub name="Streak" value={streak}></StatsModalFirstPartSub>
+                        <StatsModalFirstPartSub name="Win Streak" value={streak}></StatsModalFirstPartSub>
                     </div>
                     <br/>
                     <br/>
