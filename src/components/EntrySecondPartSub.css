@@ -1,0 +1,10 @@
+.entrySecondPartSubFirstSpan {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.entrySecondPartSubSecondSpan {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
