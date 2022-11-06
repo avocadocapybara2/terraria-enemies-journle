@@ -133,7 +133,7 @@ function EndModal({ thisJournleDay, target, won, guesses }) {
                 <Button variant="contained" onClick={share}>Share</Button>
             </Box>
       </Modal>
-      <Snackbar open={snackbarOpen} autoHideDuration={10000} onClose={handleSnackbarClose} message="Copied to clipboard."></Snackbar>
+      <Snackbar open={snackbarOpen} autoHideDuration={10000} onClose={handleSnackbarClose} message="Copied to clipboard"></Snackbar>
       </div>
     )
 }
