@@ -38,7 +38,7 @@ function InfoModal() {
             which inspired this and gives this its name. Big credit to NerfIrelia73 and the original Hunter's Journle!
             <br/>
             <br/>
-            There is a new target each day at midnight local time. The objective is to guess the target within the fewest number of guesses. If you guess the target within 6 guesses, you win; otherwise you lose.
+            There is a new target answer each day at midnight local time. The objective is to guess the target within the fewest number of guesses. If you guess the target within 6 guesses, you win; otherwise you lose.
             <br/>
             <br/>
             You choose a guess with the search bar on the left and today's history of guesses and each guess's outcome will show up on the right.
