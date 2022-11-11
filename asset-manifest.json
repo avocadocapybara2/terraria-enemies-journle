@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/terraria-enemies-journle/static/css/main.e273a0e9.css",
-    "main.js": "/terraria-enemies-journle/static/js/main.25b3a1de.js",
+    "main.js": "/terraria-enemies-journle/static/js/main.f290dce6.js",
     "index.html": "/terraria-enemies-journle/index.html",
     "main.e273a0e9.css.map": "/terraria-enemies-journle/static/css/main.e273a0e9.css.map",
-    "main.25b3a1de.js.map": "/terraria-enemies-journle/static/js/main.25b3a1de.js.map"
+    "main.f290dce6.js.map": "/terraria-enemies-journle/static/js/main.f290dce6.js.map"
   },
   "entrypoints": [
     "static/css/main.e273a0e9.css",
-    "static/js/main.25b3a1de.js"
+    "static/js/main.f290dce6.js"
   ]
 }
