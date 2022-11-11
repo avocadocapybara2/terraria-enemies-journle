@@ -38,7 +38,7 @@ function InfoModal() {
             which inspired this and gives this its name. Big credit to NerfIrelia73 and the original Hunter's Journle!
             <br/>
             <br/>
-            There is a target answer each day and the objective is to guess the target in as few guesses as possible. The game ends in a win if you do this, and ends in a loss if you do guess the target in 6 guesses or less.
+            There is a target answer each day and the objective is to guess the target in as few guesses as possible. The game ends in a win if you do this, and ends in a loss if you do not guess the target in 6 guesses or less.
             <br/>
             <br/>
             You choose a guess with the search bar on the left and today's history of guesses and each guess's outcome will show up on the right.
