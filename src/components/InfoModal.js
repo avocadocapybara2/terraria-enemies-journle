@@ -38,7 +38,7 @@ function InfoModal() {
             which inspired this and gives this its name. Big credit to NerfIrelia73 and the original Hunter's Journle!
             <br/>
             <br/>
-            Each day, there is a new correct answer. The objective of the game is to guess the correct answer in as few guesses as possible. The game ends in a win if you guess the correct answer within 6 guesses. The game ends in a loss if you guess 6 times without guessing the correct answer. There is a new correct answer each day at midnight local time.
+            Each day, there is a new correct answer. The objective of the game is to guess the correct answer in as few guesses as possible. The game ends in a win if you guess the correct answer within 6 guesses. The game ends in a loss if you guess 6 times without guessing the correct answer. The correct answer changes at midnight local time each day.
             <br/>
             <br/>
             You choose a guess with the search bar on the left and today's history of guesses and each guess's outcome will show up on the right.
